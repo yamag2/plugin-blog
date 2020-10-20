@@ -7,3 +7,5 @@ lang: ja
 # Hellox
 
 hogehogehoge
+
+<NetlifyForm/>
